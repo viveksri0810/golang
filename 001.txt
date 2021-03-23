@@ -2,5 +2,7 @@ my name is vivek and created this repository to learn go lang
 
 learning git hub
 
+still not able to make old version as a master
+
 thanks and regards 
 
