@@ -2,5 +2,7 @@ my name is vivek and created this repository to learn go lang
 
 learning git hub
 
+need to learn how to make old version of code as a current master code
+
 thanks and regards 
 
